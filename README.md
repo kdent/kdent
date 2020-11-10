@@ -1,6 +1,6 @@
 ### Hello
 
-I am an artificial intelligence researcher and data scientist interested in the interplay between people and technology. I co-chair the AI Ethics Committee and lead R&D projects as manager of the Machine Learning and Data Science group at the Palo Alto Research Center (formerly Xerox PARC). I am currently working on AI Ethics and understanding misinformation online.
+I am the Research Director for AI at PARC. My personal interest is the intersection of people and technology. In particular, I study the role of technology in complex social systems or using data science to better understand those systems. Besides overseeing a portfolio of innovation projects at PARC, I work on  AI Ethics and combating misinformation online.
 
 Specialties: Technology and society, AI ethics, natural language processing, conversational agents, data science, and complex systems. 
 
