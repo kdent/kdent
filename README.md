@@ -1,6 +1,6 @@
 ### Hello
 
-My interest is the intersection of people and technology. Most of my work has been considering the impact of technology on individuals and complex social systems or using data science to better understand how those systems function. I work on AI Ethics and technology that fosters healthier online communities by combating misinformation, hate speech, abusive language, and toxic content.
+I am the head of AI and Ethics and CheckStep. My focus is at the intersection of people and technology. Most of my work has been considering the impact of technology on individuals and complex social systems or using data science to better understand how those systems function. I work on AI Ethics and technology that fosters healthier online communities by combating misinformation, hate speech, abusive language, and toxic content.
 
 Specialties: Technology and society, AI ethics, natural language processing, conversational agents, data science, and complex systems. 
 
