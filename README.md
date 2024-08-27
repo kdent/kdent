@@ -1,8 +1,9 @@
 ### Hello
 
-My focus is at the intersection of people and technology. Most of my work has been considering the impact of technology on individuals and complex social systems or using data science to better understand how those systems function. I work on AI Ethics and technology that fosters healthier online communities by combating misinformation, hate speech, abusive language, and toxic content.
+Currently I am a Lecturer at Fordham University in the Computer and Information Sciences department. Prior to Fordham, I worked at the Palo Alto Research Center (Xerox PARC) from 2008 to 2021 in various roles finishing as the Research Director for AI. I am also the author of _Postfix: The Definitive Guide_ published by O'Reilly Media in 2004. I received an M.S. degree in computer science from Columbia 
+University.
 
-Specialties: Technology and society, AI ethics, natural language processing, conversational agents, data science, and complex systems. 
+Specialties: Technology and society, AI ethics, natural language processing, data science, and complex systems. 
 
 <!--
 **kdent/kdent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
