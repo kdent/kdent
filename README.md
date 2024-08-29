@@ -1,6 +1,6 @@
 ### Hello
 
-Currently I am a Lecturer at Fordham University in the Computer and Information Sciences department. Prior to Fordham, I worked at the Palo Alto Research Center (Xerox PARC) from 2008 to 2021 in various roles finishing as the Research Director for AI. I am also the author of _Postfix: The Definitive Guide_ published by O'Reilly Media in 2004. I received an M.S. degree in computer science from Columbia 
+I am currently a Lecturer at Fordham University in the Computer and Information Sciences department. Prior to Fordham, I worked at the Palo Alto Research Center (Xerox PARC) from 2008 to 2021 in various roles finishing as the Research Director for AI. I am also the author of _Postfix: The Definitive Guide_ published by O'Reilly Media in 2004. I received an M.S. degree in computer science from Columbia 
 University.
 
 Specialties: Technology and society, AI ethics, natural language processing, data science, and complex systems. 
